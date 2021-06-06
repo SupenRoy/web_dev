@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "web_dev"]
+	url = https://github.com/SupenRoy/web_dev
+	fetch = +refs/heads/*:refs/remotes/web_dev/*
